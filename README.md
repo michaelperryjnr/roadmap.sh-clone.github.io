@@ -1,2 +1,3 @@
 # roadmap.sh-clone
-This repo is about my projects when I started learning web design
+This is a clone of roadmap.sh
+
